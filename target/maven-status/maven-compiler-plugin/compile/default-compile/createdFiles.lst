@@ -1,0 +1,3 @@
+org\hibernate\crud\Product.class
+org\hibernate\crud\ProductDAO.class
+org\hibernate\PrepareDataApp.class
